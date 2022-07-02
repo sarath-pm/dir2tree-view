@@ -13,7 +13,7 @@ pip install dir2tree-view
 ```
 
 ## Usage
-Pass the directory path to the generate method
+> Pass the directory path to the generate method
 
 ```python
 from TreeView import Tree
